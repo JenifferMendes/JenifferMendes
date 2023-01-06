@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JenifferMendes&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JenifferMendes&theme=modern-lilac2&border_radius=5.2)](https://git.io/streak-stats)
 
 
 <!--
